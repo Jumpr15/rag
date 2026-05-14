@@ -8,4 +8,5 @@ dependencies = [
     "datasets>=4.8.5",
     "kagglehub[hf-datasets]>=1.0.1",
     "qdrant-client[fastembed]>=1.14.2",
+    "sentence-transformers>=5.5.0",
 ]
